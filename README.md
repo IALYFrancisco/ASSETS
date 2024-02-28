@@ -1,2 +1,2 @@
 # ASSETS
-Fichier d'illustration des projets
+### Cet dépôt regroupe des fichiers d'illustration de mes projets 
