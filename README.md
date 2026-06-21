@@ -5,3 +5,5 @@
 - vidéos
 - font
 - ...
+
+### On trouve dans ce dépôt des templates emails de mes projets.
